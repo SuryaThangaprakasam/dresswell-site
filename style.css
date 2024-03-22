@@ -1,0 +1,14 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+
+.links {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.links:hover {
+    color: black;
+    text-shadow: 0 0 15px black;
+}
